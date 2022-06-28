@@ -17,7 +17,7 @@
 ## This application was made during Teacher Lozano course
 ### [Link to the course](https://youtube.com/playlist?list=PL1hl9qLyFtfDXY9NO8F3TnjxezKJ_1HlI)
 
-| Comando    | Método       | Rota       |Função | 
+| Command    | Metod       | Route       |Function | 
 | -----------| ----------   |----------- |-----------|
 | buscarTodos| GET          | http://localhost:3000/api/carros       |Select all the elements in the database|
 | buscarUm   | GET          |  .../api/carro/codigo                  | Select an especific element|
